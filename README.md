@@ -5,7 +5,7 @@ Full-Stack Developer | ALX Software Engineering
 
 ## About Me
 
-I've always been driven by the desire to understand how things work—whether it's the complex systems of the human body or the intricate logic of a web application. Now, as an aspiring software engineer, I get to be the reason new things come to life.
+I've always been driven by the desire to understand how things work—whether it's the complex systems of the human body or the intricate logic of a web application. Now, as a Developer, I get to be the reason new things come to life.
 
 My journey in software began with the realization that I could take my curiosity and passion for problem-solving and use it to build something tangible. As a student in the ALX Software Engineering program, I am focused on applying my hands-on learning approach to innovate across industries, from gaming to health tech and beyond.
 
